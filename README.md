@@ -1,6 +1,6 @@
 # DiagnosAI  
 > **DiagnosAI** is an open-source initiative that builds, evaluates, and shares deep-learning models for medical-image diagnostics.  
-> The inaugural module—**Melanoma Detection**—implements a convolutional neural network (CNN) that flags melanoma in dermoscopic images, accelerating early-stage skin-cancer screening.
+> The inaugural module, **Melanoma Detection**, implements a convolutional neural network (CNN) that flags melanoma in dermoscopic images, accelerating early-stage skin-cancer screening.
 
 ---
 
