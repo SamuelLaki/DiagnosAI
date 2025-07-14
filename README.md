@@ -24,7 +24,9 @@ DiagnosAI’s first release automates that screening workflow: a CNN ingests der
 ## Repository Structure
 DiagnosAI/
 └── Melanoma_Detection/
+
 ├── README.md # project-specific details
+
 ├── Melanoma.ipynb # full, annotated pipeline
 
 
