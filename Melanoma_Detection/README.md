@@ -20,7 +20,7 @@
 - Numpy
 - Pandas
 
-## Conclusions
+## Conclusion
 - Accuracy on initial data - Training: 0.9035, Validation: 0.2609
 - Accuracy on optimised and agumented data - Training: 0.4799 , Validation: 0.3043
 - Accuracy on class rebalanced data - Training: 0.9566 , Validation: 0.8151
