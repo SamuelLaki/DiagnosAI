@@ -22,13 +22,13 @@ DiagnosAI’s first release automates that screening workflow: a CNN ingests der
 ---
 
 ## Repository Structure
+```text
 DiagnosAI/
+├── README.md                     # this file
 └── Melanoma_Detection/
-
-├── README.md # project-specific details
-
-├── Melanoma.ipynb # full, annotated pipeline
-
+    ├── README.md                 # project-specific details
+    └── Melanoma.ipynb            # full, annotated pipeline
+```
 
 ---
 
@@ -58,3 +58,18 @@ pip install -r requirements.txt
 
 # launch the end-to-end notebook
 jupyter notebook Melanoma.ipynb
+```
+
+## Contributing
+Contributions are welcome, whether it’s improving the melanoma model, adding new disease modules, or refining documentation.
+
+Fork the repository and create a feature branch.
+
+Ensure code follows PEP 8 and is formatted with black.
+
+Add or update tests where appropriate.
+
+Open a pull request for review.
+
+## License
+DiagnosAI is released under the MIT License. 
